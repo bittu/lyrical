@@ -1,0 +1,23 @@
+{
+  "name": "lyrical",
+  "version": "1.0.0",
+  "description": "Lyrical a web-app that gives you lyrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bittu/lyrical.git"
+  },
+  "keywords": [
+    "lyrics",
+    "music"
+  ],
+  "author": "Sandeep Vemula",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bittu/lyrical/issues"
+  },
+  "homepage": "https://github.com/bittu/lyrical#readme"
+}
